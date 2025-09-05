@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Esteban Marin</h1>
-<h3 align="center">Data Scientist | AI & Analytics Enthusiast)</h3>
+<h3 align="center">Data Scientist | AI & Analytics </h3>
 
 - 🔭 I’m currently working on **Tary Analytics – delivering data science and AI projects for industries such as banking, manufacturing, and emergency response. (Examples: customer segmentation with RFM + K-Means, 911 call classification, OCR systems with LLMs).**
 
